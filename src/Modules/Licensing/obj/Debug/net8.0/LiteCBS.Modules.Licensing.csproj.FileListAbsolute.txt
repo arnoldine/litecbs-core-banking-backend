@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/Licensing/bin/Debug/net8.0/LiteCBS.Modules.Licensing.deps.json
+/project/sandbox/user-workspace/src/Modules/Licensing/bin/Debug/net8.0/LiteCBS.Modules.Licensing.dll
+/project/sandbox/user-workspace/src/Modules/Licensing/bin/Debug/net8.0/LiteCBS.Modules.Licensing.pdb
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.dll
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/refint/LiteCBS.Modules.Licensing.dll
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/LiteCBS.Modules.Licensing.pdb
+/project/sandbox/user-workspace/src/Modules/Licensing/obj/Debug/net8.0/ref/LiteCBS.Modules.Licensing.dll
