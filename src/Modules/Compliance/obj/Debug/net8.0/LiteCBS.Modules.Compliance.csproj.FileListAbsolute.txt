@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/Compliance/bin/Debug/net8.0/LiteCBS.Modules.Compliance.deps.json
+/project/sandbox/user-workspace/src/Modules/Compliance/bin/Debug/net8.0/LiteCBS.Modules.Compliance.dll
+/project/sandbox/user-workspace/src/Modules/Compliance/bin/Debug/net8.0/LiteCBS.Modules.Compliance.pdb
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.dll
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/refint/LiteCBS.Modules.Compliance.dll
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/LiteCBS.Modules.Compliance.pdb
+/project/sandbox/user-workspace/src/Modules/Compliance/obj/Debug/net8.0/ref/LiteCBS.Modules.Compliance.dll
