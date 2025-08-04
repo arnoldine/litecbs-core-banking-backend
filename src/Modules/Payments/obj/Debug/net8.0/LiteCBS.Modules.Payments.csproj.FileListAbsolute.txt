@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/Payments/bin/Debug/net8.0/LiteCBS.Modules.Payments.deps.json
+/project/sandbox/user-workspace/src/Modules/Payments/bin/Debug/net8.0/LiteCBS.Modules.Payments.dll
+/project/sandbox/user-workspace/src/Modules/Payments/bin/Debug/net8.0/LiteCBS.Modules.Payments.pdb
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.dll
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/refint/LiteCBS.Modules.Payments.dll
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/LiteCBS.Modules.Payments.pdb
+/project/sandbox/user-workspace/src/Modules/Payments/obj/Debug/net8.0/ref/LiteCBS.Modules.Payments.dll
