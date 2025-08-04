@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/bin/Debug/net8.0/LiteCBS.Infrastructure.deps.json
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/bin/Debug/net8.0/LiteCBS.Infrastructure.dll
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/bin/Debug/net8.0/LiteCBS.Infrastructure.pdb
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.dll
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/refint/LiteCBS.Infrastructure.dll
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/LiteCBS.Infrastructure.pdb
+/project/sandbox/user-workspace/src/LiteCBS.Infrastructure/obj/Debug/net8.0/ref/LiteCBS.Infrastructure.dll
