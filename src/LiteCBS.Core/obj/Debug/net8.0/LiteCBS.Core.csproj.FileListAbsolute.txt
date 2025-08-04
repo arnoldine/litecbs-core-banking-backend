@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/LiteCBS.Core/bin/Debug/net8.0/LiteCBS.Core.deps.json
+/project/sandbox/user-workspace/src/LiteCBS.Core/bin/Debug/net8.0/LiteCBS.Core.dll
+/project/sandbox/user-workspace/src/LiteCBS.Core/bin/Debug/net8.0/LiteCBS.Core.pdb
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.dll
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/refint/LiteCBS.Core.dll
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/LiteCBS.Core.pdb
+/project/sandbox/user-workspace/src/LiteCBS.Core/obj/Debug/net8.0/ref/LiteCBS.Core.dll
