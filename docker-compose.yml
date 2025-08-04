@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: litecbs-postgres
+    environment:
+      POSTGRES_USER: litecbs
+      POSTGRES_PASSWORD: LiteCBS@2024
+      POSTGRES_DB: litecbs
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - litecbs-network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: litecbs-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@litecbs.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    networks:
+      - litecbs-network
+
+  litecbs-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: litecbs-api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Database=litecbs;Username=litecbs;Password=LiteCBS@2024
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      - postgres
+    networks:
+      - litecbs-network
+
+volumes:
+  postgres_data:
+
+networks:
+  litecbs-network:
+    driver: bridge
