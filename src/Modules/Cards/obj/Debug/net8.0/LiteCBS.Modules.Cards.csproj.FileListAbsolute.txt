@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/Cards/bin/Debug/net8.0/LiteCBS.Modules.Cards.deps.json
+/project/sandbox/user-workspace/src/Modules/Cards/bin/Debug/net8.0/LiteCBS.Modules.Cards.dll
+/project/sandbox/user-workspace/src/Modules/Cards/bin/Debug/net8.0/LiteCBS.Modules.Cards.pdb
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.dll
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/refint/LiteCBS.Modules.Cards.dll
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/LiteCBS.Modules.Cards.pdb
+/project/sandbox/user-workspace/src/Modules/Cards/obj/Debug/net8.0/ref/LiteCBS.Modules.Cards.dll
