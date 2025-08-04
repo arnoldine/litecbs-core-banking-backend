@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/bin/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.deps.json
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/bin/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.dll
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/bin/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.pdb
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.dll
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/refint/LiteCBS.Modules.IdentityAndKyc.dll
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/LiteCBS.Modules.IdentityAndKyc.pdb
+/project/sandbox/user-workspace/src/Modules/IdentityAndKyc/obj/Debug/net8.0/ref/LiteCBS.Modules.IdentityAndKyc.dll
