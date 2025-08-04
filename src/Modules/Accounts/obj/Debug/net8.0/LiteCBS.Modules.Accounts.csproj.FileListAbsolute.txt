@@ -1,0 +1,11 @@
+/project/sandbox/user-workspace/src/Modules/Accounts/bin/Debug/net8.0/LiteCBS.Modules.Accounts.deps.json
+/project/sandbox/user-workspace/src/Modules/Accounts/bin/Debug/net8.0/LiteCBS.Modules.Accounts.dll
+/project/sandbox/user-workspace/src/Modules/Accounts/bin/Debug/net8.0/LiteCBS.Modules.Accounts.pdb
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.AssemblyInfo.cs
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.dll
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/refint/LiteCBS.Modules.Accounts.dll
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/LiteCBS.Modules.Accounts.pdb
+/project/sandbox/user-workspace/src/Modules/Accounts/obj/Debug/net8.0/ref/LiteCBS.Modules.Accounts.dll
